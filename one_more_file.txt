@@ -6,4 +6,4 @@ This is a change to be commited.
 
 Addons for a new_feature branch
 
-Addons for a short_title branch.
+Addons for a short_title branch...
