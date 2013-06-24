@@ -1,5 +1,4 @@
 .
-That's the start here.
+That's the beginning.
 The season is winter.
 That's the end.
-And one more line from master.
