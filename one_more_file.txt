@@ -3,3 +3,5 @@
 3. third line 03
 
 This is a change to be commited.
+
+Addons for a new_feature branch
